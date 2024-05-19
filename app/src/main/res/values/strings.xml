@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TH2</string>
+    <string-array name="category">
+        <item>Đồ ăn</item>
+        <item>Đồ uống</item>
+
+    </string-array>
+    <string-array name="condition">
+        <item>Còn hàng</item>
+        <item>Hết hàng</item>
+
+    </string-array>
+</resources>
